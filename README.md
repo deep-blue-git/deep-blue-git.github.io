@@ -1,2 +1,2 @@
-# deep-blue-git.github.io
-Our site repo
+# Deep Blue 
+Coming soon...
